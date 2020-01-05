@@ -23,11 +23,9 @@
 
 **미리 보고 와야 할 동영상 목록은 추후 갱신할 예정입니다.**
 
-- 1월 11일 : Modules
-- 1월 18일 : Ranges
-- ~~1월 25일~~ (설날 연휴)
-- 2월 1일 : Concepts
-- 2월 8일 : Coroutines
-- 2월 15일 : `std::format`
-- 2월 22일 : Core features
-- 2월 29일 : Library features
+- 2월 2일 **(일요일)** : Modules
+- 2월 8일 : Ranges
+- 2월 15일 : Concepts
+- 2월 22일 : Coroutines
+- 2월 29일 : `std::format`
+- 3월 7일 : Core & Library features
