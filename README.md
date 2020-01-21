@@ -21,9 +21,14 @@
 
 ## 일정
 
-**미리 보고 와야 할 동영상 목록은 추후 갱신할 예정입니다.**
-
 - 2월 2일 **(일요일)** : Modules
+  - [C++ References: Modules](https://en.cppreference.com/w/cpp/language/modules)
+  - [C++20: Modules](https://www.modernescpp.com/index.php/c-20-modules)
+  - [CppCon 2018: Nathan Sidwell "C++ Modules"](https://www.youtube.com/watch?v=xi2lTaC5p0I)
+  - [CppCon 2018: John Lakos "C++ Modules and Large-Scale Development"](https://www.youtube.com/watch?v=K_fTl_hIEGY)
+  - [CppCon 2019: Gabriel Dos Reis "Programming with C++ Modules: Guide for the Working"](https://www.youtube.com/watch?v=tjSuKOz5HK4)
+  - [CppCon 2019: Nathan Sidwell "Converting to C++20 Modules"](https://www.youtube.com/watch?v=KVsWIEw3TTw)
+  - [CppCon 2019: Boris Kolpackov "Practical C++ Modules"](https://www.youtube.com/watch?v=szHV6RdQdg8)
 - 2월 8일 : Ranges
 - 2월 15일 : Concepts
 - 2월 22일 : Coroutines
