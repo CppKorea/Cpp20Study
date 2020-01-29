@@ -29,6 +29,7 @@
   - [CppCon 2019: Gabriel Dos Reis "Programming with C++ Modules: Guide for the Working"](https://www.youtube.com/watch?v=tjSuKOz5HK4)
   - [CppCon 2019: Nathan Sidwell "Converting to C++20 Modules"](https://www.youtube.com/watch?v=KVsWIEw3TTw)
   - [CppCon 2019: Boris Kolpackov "Practical C++ Modules"](https://www.youtube.com/watch?v=szHV6RdQdg8)
+  - [C++ Modules conformance improvements with MSVC in Visual Studio 2019 16.5](https://devblogs.microsoft.com/cppblog/c-modules-conformance-improvements-with-msvc-in-visual-studio-2019-16-5/)
 - 2월 8일 **(토요일)** : Ranges
 - 2월 16일 **(일요일)** : Concepts
 - 2월 22일 **(토요일)** : Coroutines
