@@ -3,7 +3,7 @@
 2020년 상반기에 진행하는 C++20 스터디 관련 자료입니다.
 
 - 진행 : [옥찬호](https://github.com/utilForever) (utilForever@gmail.com)
-- 날짜 : **토요일** 오후 1시 30분 ~ 오후 3시 30분
+- 날짜 : 토요일 또는 일요일 오전 11시 ~ 오후 1시
 - 장소 : 토즈 강남 지역 (강남 / 교대 / 양재 / 선릉)
 - 비용 : 7만원 (1만원 * 7회)
 - 인원 : 최대 10명
@@ -30,7 +30,7 @@
   - [CppCon 2019: Nathan Sidwell "Converting to C++20 Modules"](https://www.youtube.com/watch?v=KVsWIEw3TTw)
   - [CppCon 2019: Boris Kolpackov "Practical C++ Modules"](https://www.youtube.com/watch?v=szHV6RdQdg8)
 - 2월 8일 : Ranges
-- 2월 15일 : Concepts
+- 2월 16일 **(일요일)** : Concepts
 - 2월 22일 : Coroutines
-- 2월 29일 : `std::format`
+- 3월 1일 **(일요일)** : `std::format`
 - 3월 7일 : Core & Library features
