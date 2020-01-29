@@ -29,8 +29,8 @@
   - [CppCon 2019: Gabriel Dos Reis "Programming with C++ Modules: Guide for the Working"](https://www.youtube.com/watch?v=tjSuKOz5HK4)
   - [CppCon 2019: Nathan Sidwell "Converting to C++20 Modules"](https://www.youtube.com/watch?v=KVsWIEw3TTw)
   - [CppCon 2019: Boris Kolpackov "Practical C++ Modules"](https://www.youtube.com/watch?v=szHV6RdQdg8)
-- 2월 8일 : Ranges
+- 2월 8일 **(토요일)** : Ranges
 - 2월 16일 **(일요일)** : Concepts
-- 2월 22일 : Coroutines
+- 2월 22일 **(토요일)** : Coroutines
 - 3월 1일 **(일요일)** : `std::format`
-- 3월 7일 : Core & Library features
+- 3월 7일 **(토요일)** : Core & Library features
