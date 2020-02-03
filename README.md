@@ -31,6 +31,12 @@
   - [CppCon 2019: Boris Kolpackov "Practical C++ Modules"](https://www.youtube.com/watch?v=szHV6RdQdg8)
   - [C++ Modules conformance improvements with MSVC in Visual Studio 2019 16.5](https://devblogs.microsoft.com/cppblog/c-modules-conformance-improvements-with-msvc-in-visual-studio-2019-16-5/)
 - 2월 8일 **(토요일)** : Ranges
+  - [C++ References: Ranges library](https://en.cppreference.com/w/cpp/ranges)
+  - [Github repository: range-v3](https://github.com/ericniebler/range-v3)
+  - [range-v3: User Manual](https://ericniebler.github.io/range-v3)
+  - [Ranges for The C++ Standard Library](https://channel9.msdn.com/Events/Channel9-Korea/cplusplus/Ranges-for-The-C-Standard-Library)
+  - [CppCon 2015: Eric Niebler "Ranges for the Standard Library"](https://www.youtube.com/watch?v=mFUXNMfaciE)
+  - [C++Now 2019: Jeff Garland "Using C++20 Ranges Effectively"](https://www.youtube.com/watch?v=VmWS-9idT3s)
 - 2월 16일 **(일요일)** : Concepts
 - 2월 22일 **(토요일)** : Coroutines
 - 3월 1일 **(일요일)** : `std::format`
