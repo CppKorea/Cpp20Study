@@ -38,6 +38,13 @@
   - [CppCon 2015: Eric Niebler "Ranges for the Standard Library"](https://www.youtube.com/watch?v=mFUXNMfaciE)
   - [C++Now 2019: Jeff Garland "Using C++20 Ranges Effectively"](https://www.youtube.com/watch?v=VmWS-9idT3s)
 - 2월 16일 **(일요일)** : Concepts
+  - [C++ References: Constraints and concepts](https://en.cppreference.com/w/cpp/language/constraints)
+  - [C++20: Concepts, the Details](https://www.modernescpp.com/index.php/c-20-concepts-the-details)
+  - [C++ Core Guidelines: Rules for the Usage of Concepts](https://www.modernescpp.com/index.php/c-core-guidelines-rules-for-the-usage-of-concepts-2)
+  - [CppCon 2018: Bjarne Stroustrup "Concepts: The Future of Generic Programming"](https://www.youtube.com/watch?v=HddFGPTAmtU)
+  - [CppCon 2018: Andrew Sutton "Concepts in 60: Everything you need to know and nothing you don't"](https://www.youtube.com/watch?v=ZeU6OPaGxwM)
+  - [CppCon 2019: Rainer Grimm "Concepts in C++20: Revolution or Evolution"](https://www.youtube.com/watch?v=BXBnAmqZvpo)
+  - [CppCon 2019: Saar Raz "C++20 Concepts: A Day in the Life"](https://www.youtube.com/watch?v=qawSiMIXtE4)
 - 2월 22일 **(토요일)** : Coroutines
 - 3월 1일 **(일요일)** : `std::format`
 - 3월 7일 **(토요일)** : Core & Library features
