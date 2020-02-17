@@ -48,8 +48,10 @@
 - 2월 22일 **(토요일)** : Coroutines
   - [C++ References: Coroutines](https://en.cppreference.com/w/cpp/language/coroutines)
   - [Github repository: cppcoro](https://github.com/lewissbaker/cppcoro)
+  - [Github repository: coroutine](https://github.com/luncliff/coroutine)
   - [C++20: Coroutines](https://www.modernescpp.com/index.php/coroutines)
   - [Your First C++ Coroutines](https://blog.panicsoftware.com/your-first-coroutine/)
+  - [C++ Korea 제5회 세미나 - C++ Coroutines 알아보기; 접근법, 컴파일러, 그리고 이슈들](https://github.com/CppKorea/CppKoreaSeminar5th/blob/master/5%20-%20C%2B%2B%20Coroutine%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0%3B%20%EC%A0%91%EA%B7%BC%EB%B2%95%2C%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%9D%B4%EC%8A%88/%5BC%2B%2B%20Korea%205th%20Seminar%5D%20C%2B%2B%20Coroutine%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0%3B%20%EC%A0%91%EA%B7%BC%EB%B2%95%2C%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%9D%B4%EC%8A%88%EB%93%A4.pdf)
   - [C++ Korea 제6회 세미나 - System API와 Coroutine 결합하기](https://www.youtube.com/watch?v=F6E_cLOIe-U)
   - [CppCon 2016: James McNellis "Introduction to C++ Coroutines"](https://www.youtube.com/watch?v=ZTqHjjm86Bw)
   - [CppCon 2016: Gor Nishanov "C++ Coroutines: Under the covers"](https://www.youtube.com/watch?v=8C8NnE1Dg4A)
