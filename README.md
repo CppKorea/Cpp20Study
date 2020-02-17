@@ -46,5 +46,17 @@
   - [CppCon 2019: Rainer Grimm "Concepts in C++20: Revolution or Evolution"](https://www.youtube.com/watch?v=BXBnAmqZvpo)
   - [CppCon 2019: Saar Raz "C++20 Concepts: A Day in the Life"](https://www.youtube.com/watch?v=qawSiMIXtE4)
 - 2월 22일 **(토요일)** : Coroutines
+  - [C++ References: Coroutines](https://en.cppreference.com/w/cpp/language/coroutines)
+  - [Github repository: cppcoro](https://github.com/lewissbaker/cppcoro)
+  - [C++20: Coroutines](https://www.modernescpp.com/index.php/coroutines)
+  - [Your First C++ Coroutines](https://blog.panicsoftware.com/your-first-coroutine/)
+  - [C++ Korea 제6회 세미나 - System API와 Coroutine 결합하기](https://www.youtube.com/watch?v=F6E_cLOIe-U)
+  - [CppCon 2016: James McNellis "Introduction to C++ Coroutines"](https://www.youtube.com/watch?v=ZTqHjjm86Bw)
+  - [CppCon 2016: Gor Nishanov "C++ Coroutines: Under the covers"](https://www.youtube.com/watch?v=8C8NnE1Dg4A)
+  - [CppCon 2017: Toby Allsopp "Coroutines: what can't they do?"](https://www.youtube.com/watch?v=mlP1MKP8d_Q)
+  - [CppCon 2019: Anthony Williams "Concurrency in C++20 and Beyond"](https://www.youtube.com/watch?v=jozHW_B3D4U)
+  - [C++20 Coroutines: Introduction - Marcin Grzebieluch - code::dive 2019](https://www.youtube.com/watch?v=vDA925C55F0)
+  - ["Exploring C++20 Coroutines" by Justin Durkan](https://www.youtube.com/watch?v=RhXaKOe3JZM)
+  - [Core C++ 2019 :: Yehezkel Bernat :: Coroutines - the future of future](https://www.youtube.com/watch?v=1tQfcPnHeRY)
 - 3월 1일 **(일요일)** : `std::format`
 - 3월 7일 **(토요일)** : Core & Library features
