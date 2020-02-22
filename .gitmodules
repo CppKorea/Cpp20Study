@@ -4,3 +4,6 @@
 [submodule "4 - Coroutines/coro"]
 	path = 4 - Coroutines/coro
 	url = https://github.com/Quuxplusone/coro
+[submodule "4 - Coroutines/coroutine"]
+	path = 4 - Coroutines/coroutine
+	url = https://github.com/luncliff/coroutine
