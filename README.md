@@ -64,4 +64,10 @@
   - ["Exploring C++20 Coroutines" by Justin Durkan](https://www.youtube.com/watch?v=RhXaKOe3JZM)
   - [Core C++ 2019 :: Yehezkel Bernat :: Coroutines - the future of future](https://www.youtube.com/watch?v=1tQfcPnHeRY)
 - 3월 1일 **(일요일)** : `std::format`
+  - [C++ References: Formatting library](https://en.cppreference.com/w/cpp/utility/format)
+  - [Github repository: fmt](https://github.com/fmtlib/fmt)
+  - [Github repository: spdlog](https://github.com/gabime/spdlog)
+  - [std::format in C++20](https://www.zverovich.net/2019/07/23/std-format-cpp20.html)
+  - [CppCon 2017: Victor Zverovich "A modern formatting library for C++"](https://www.youtube.com/watch?v=ptba_AqFYCM)
+  - [C++ Weekly - Ep 135 - {fmt} is Addictive! Using {fmt} and spdlog](https://www.youtube.com/watch?v=KeS1ehp9IiI)
 - 3월 7일 **(토요일)** : Core & Library features
