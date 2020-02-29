@@ -7,3 +7,6 @@
 [submodule "4 - Coroutines/coroutine"]
 	path = 4 - Coroutines/coroutine
 	url = https://github.com/luncliff/coroutine
+[submodule "5 - Format/fmt"]
+	path = 5 - Format/fmt
+	url = https://github.com/fmtlib/fmt
