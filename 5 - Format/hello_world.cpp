@@ -23,5 +23,14 @@ int main()
     // Python-like format string syntax using fmt
     fmt::print("I'd rather be {1} than {0}.\n", "right", "happy");
 
+    // Part 3
+    int a = 1, b = 2;
+
+    // Standard C++ syntax using std::cout
+    std::cout << a << " + " << b << " = " << a + b << '\n';
+
+    // Python-like format string syntax using fmt
+    fmt::print("{} + {} = {}", a, b, a + b);
+
     return 0;
 }
