@@ -1,6 +1,6 @@
 // Run with in cl
 /*
-cl.exe hello_world.cpp /I fmt/include /std:c++latest /EHsc /MD /link fmt.lib
+cl.exe type_safety.cpp /I fmt/include /std:c++latest /EHsc /MD /link fmt.lib
 */
 
 #include <fmt/format.h>
