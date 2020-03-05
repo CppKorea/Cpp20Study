@@ -71,3 +71,11 @@
   - [CppCon 2017: Victor Zverovich "A modern formatting library for C++"](https://www.youtube.com/watch?v=ptba_AqFYCM)
   - [C++ Weekly - Ep 135 - {fmt} is Addictive! Using {fmt} and spdlog](https://www.youtube.com/watch?v=KeS1ehp9IiI)
 - 3월 7일 **(토요일)** : Core & Library features
+  - [C++ References: consteval](https://en.cppreference.com/w/cpp/language/consteval)
+  - [C++ References: operator<=>](https://en.cppreference.com/w/cpp/utility/compare/three_way_comparable)
+  - [C++ References: std::span](https://en.cppreference.com/w/cpp/container/span)
+  - [C++ References: std::endian](https://en.cppreference.com/w/cpp/types/endian)
+  - [C++ References: std::bit_cast](https://en.cppreference.com/w/cpp/numeric/bit_cast)
+  - [C++ References: std::atomic_ref](https://en.cppreference.com/w/cpp/atomic/atomic_ref)
+  - [C++ References: std::jthread](https://en.cppreference.com/w/cpp/thread/jthread)
+  - [C++ References: Date and time utilities](https://en.cppreference.com/w/cpp/chrono)
