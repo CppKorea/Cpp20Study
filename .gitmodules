@@ -10,3 +10,6 @@
 [submodule "5 - Format/fmt"]
 	path = 5 - Format/fmt
 	url = https://github.com/fmtlib/fmt
+[submodule "6 - Core & Library Features/date"]
+	path = 6 - Core & Library Features/date
+	url = https://github.com/HowardHinnant/date
