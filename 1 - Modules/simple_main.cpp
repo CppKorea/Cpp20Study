@@ -4,7 +4,7 @@ clang++ -std=c++2a -fmodules-ts --precompile simple_math.cppm -o simple_math.pcm
 clang++ -std=c++2a -fmodules-ts -c simple_math.pcm -o simple_math.pcm.o
 clang++ -std=c++2a -fmodules-ts -c simple_math.cpp -fmodule-file=simple_math.pcm -o simple_math.o
 clang++ -std=c++2a -fmodules-ts -c simple_main.cpp -fmodule-file=simple_math.pcm -o simple_main.o
-clang++ simple_math.pcm simple_main.o simple_main.o -o simple_main
+clang++ simple_math.pcm simple_math.o simple_main.o -o simple_main
 */
 
 // Run with in cl
