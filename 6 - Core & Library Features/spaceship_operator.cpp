@@ -40,13 +40,8 @@ class Rectangle
     //     {
     //         return std::weak_ordering::equivalent;
     //     }
-        
-    //     if (m_x <=> r.m_x == 0)
-    //     {
-    //         return m_y <=> r.m_y;
-    //     } 
-        
-    //     return m_x <=> r.m_x;
+
+    //     return GetArea() > r.GetArea();
     // }
 
  private:
